@@ -1,31 +1,51 @@
-# PBT 06 — CSS Frameworks
+# PBT 06 — CSS Frameworks (Bootstrap 5)
 
-**Môn học:** CSE391 — Phát triển ứng dụng Web cơ bản  
-**Chủ đề:** Bootstrap 5 / TailwindCSS  
-**Tuần:** 4 | **Thời gian:** 150 phút | **Tổng điểm:** 100
+## Thông tin sinh viên
 
-> ⚠️ **Track :** Bootstrap 
+| | |
+|---|---|
+| **Họ tên** | Đặng Phạm Gia Bách |
+| **MSSV** | 2251262578 |
+| **Môn học** | CSE391 — Phát triển ứng dụng Web cơ bản |
+| **Repository** | [CSE391_DangPhamGiaBach_2251262578_PBT_06](https://github.com/bach0823/CSE391_DangPhamGiaBach_2251262578_PBT_06) |
 
-## Mục tiêu
+**Chủ đề:** Bootstrap 5 *(Track A)*  
+**Tuần:** 4 | **Thời gian:** 150 phút
 
-- Sử dụng CSS framework để xây dựng UI nhanh
-- Hiểu grid system / utility classes
-- So sánh framework vs CSS thuần
-- Xây dựng landing page và dashboard responsive
+**Tài liệu tham chiếu:** `tuan_4_css_frameworks/bootstrap/`
 
-**Tài liệu tham chiếu:** `tuan_4_css_frameworks/bootstrap/` hoặc `tuan_4_css_frameworks/tailwindcss/`
-
-## Cấu trúc thư mục
-
-### Track A — Bootstrap (đang làm)
+## Cấu trúc dự án
 
 ```
 PBT_06/
 ├── README.md
 ├── answers.md
-├── bootstrap_landing.html    # Bài B1 — Landing page E-Commerce
-├── bootstrap_dashboard.html  # Bài B2 — Admin dashboard
-├── screenshots/              # Responsive ở 3 breakpoints
-└── videos/
-    └── PBT06_HoTen_MaSV.mp4
+├── bootstrap_landing.html    # B1 — Landing page E-Commerce
+└── bootstrap_dashboard.html  # B2 — Admin dashboard
 ```
+
+## Cách chạy
+
+Mở file `.html` bằng trình duyệt — **cần Internet** để load Bootstrap CDN.
+
+```bash
+start bootstrap_landing.html
+start bootstrap_dashboard.html
+```
+
+## Tiến độ nộp bài
+
+- [x] `answers.md` — Phần A + C
+- [x] `bootstrap_landing.html` — Bài B1
+- [x] `bootstrap_dashboard.html` — Bài B2
+- [ ] Folder `screenshots/` — responsive 3 breakpoints — *chưa có*
+- [x] Video OBS — [YouTube](https://youtu.be/ujyAfsbnOC8)
+- [x] ≥ 3 commits
+
+## Video thực hành OBS
+
+https://youtu.be/ujyAfsbnOC8
+
+---
+
+*Cập nhật: 2026 — Đặng Phạm Gia Bách*
